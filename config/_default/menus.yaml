@@ -1,0 +1,66 @@
+leftnav:
+- identifier: c7b44b83-b387-0777-91fa-a6b429cef8f0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: ba03281e-1589-9ed0-e5df-3d7d87889977
+  name: Cultivating a Culture of Collaboration
+  pageRef: /pages/instructor-insights/cultivating-a-culture-of-collaboration
+  parent: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
+  weight: 30
+- identifier: 7144c264-a36c-b324-2bcf-c7c0a6f01451
+  name: Practical Tips for Facilitating Hands-On Learning
+  pageRef: /pages/instructor-insights/practical-tips-for-facilitating-hands-on-learning
+  parent: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
+  weight: 40
+- identifier: c299c14e-3cbc-0962-875c-e14575422e09
+  name: Impressions and Advice
+  pageRef: /pages/instructor-insights/impressions-and-advice
+  parent: fe3d440e-4ef3-219b-98c9-2717cf29b3ac
+  weight: 50
+- identifier: b6e4204b-938c-bbc2-5b6a-925b625b04bf
+  name: Class Activities
+  pageRef: /pages/class-activities/
+  weight: 60
+- identifier: c58fde32-959c-c476-a858-daf107a2c7e2
+  name: Getting Started
+  pageRef: /pages/class-activities/getting-started
+  parent: b6e4204b-938c-bbc2-5b6a-925b625b04bf
+  weight: 70
+- identifier: 8b218923-d686-59f1-9eae-5de886d56839
+  name: Guided Tutorial
+  pageRef: /pages/class-activities/guided-tutorial
+  parent: b6e4204b-938c-bbc2-5b6a-925b625b04bf
+  weight: 80
+- identifier: 9124cfc0-9ac5-8d6a-28b7-dc1f57821864
+  name: Collaboration
+  pageRef: /pages/class-activities/collaboration
+  parent: b6e4204b-938c-bbc2-5b6a-925b625b04bf
+  weight: 90
+- identifier: 0d44de95-825a-a63a-7b91-a868679f2427
+  name: Expanding on Tutorials
+  pageRef: /pages/class-activities/expanding-on-tutorials
+  parent: b6e4204b-938c-bbc2-5b6a-925b625b04bf
+  weight: 100
+- identifier: 85e6f97e-119a-7ed5-84a9-d15e7dd123c5
+  name: Student Projects
+  pageRef: /pages/student-projects/
+  weight: 110
+- identifier: 4fcb6c5c-f2b5-5ff4-ff98-27ef482f2f0c
+  name: Short Project
+  pageRef: /pages/student-projects/short-project
+  parent: 85e6f97e-119a-7ed5-84a9-d15e7dd123c5
+  weight: 120
+- identifier: 1c2103b6-50f0-c9ce-847b-c90df277563d
+  name: Long Project
+  pageRef: /pages/student-projects/long-project
+  parent: 85e6f97e-119a-7ed5-84a9-d15e7dd123c5
+  weight: 130
+- identifier: 982acb1c-944f-4f00-82f3-6fa489737b9e
+  name: Host Your Own Workshop
+  pageRef: /pages/host-your-own-workshop
+  weight: 140

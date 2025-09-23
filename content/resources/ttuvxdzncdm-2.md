@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/940befbb13a65637a58ef7fcf1941f96_ttuvXdZNcDM.vtt
+file_size: 3160
+file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Other
+title: 3play caption file
+uid: 940befbb-13a6-5637-a58e-f7fcf1941f96
+---
