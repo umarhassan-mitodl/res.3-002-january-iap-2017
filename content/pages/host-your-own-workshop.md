@@ -3,6 +3,8 @@ content_type: page
 description: This page provides information on how to host a similar workshop as the
   MIT 2017 IAP course Collaborative Design and Creative Expression with Arduino Microcontroller,
   taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop
@@ -17,9 +19,9 @@ The following materials were used to plan this IAP course in January 2017.
 Github
 ------
 
-We were sponsored by {{% resource_link "1b6ca2bd-7db4-4116-b27b-63c26f1f6fde" "GitHub Education" %}} with free private repos.
+We were sponsored by [GitHub Education](https://education.github.com/) with free private repos.
 
-For the course we created a {{% resource_link "e50281df-0f69-4511-8df5-c42d44e8fee6" "single repo" %}} and gave every student access to it. We populated it with simple html templates and folders for each student and group. The {{% resource_link "c5d71030-6e02-44ad-8c9e-0208c95b15de" "single repo of 2016 IAP" %}} provides additional archived information for the workshop in 2016.
+For the course we created a [single repo](https://mens-et-manus.github.io/archive/2017-IAP-Arduino-Unity/) and gave every student access to it. We populated it with simple html templates and folders for each student and group. The [single repo of 2016 IAP](https://mens-et-manus.github.io/archive/2016-IAP-Arduino/) provides additional archived information for the workshop in 2016.
 
 Promotion
 ---------
@@ -70,9 +72,9 @@ We setup a mailing list for the course and signed up students for the list. This
 
 We are looking forward to meeting everyone.
 
-Before arriving on the first day please download and install the {{% resource_link "3ff1a162-aa14-4c0d-b49c-4e8aae2c4a25" "Arduino IDE" %}} on the laptop computer you will be using for the class.
+Before arriving on the first day please download and install the [Arduino IDE](http://www.arduino.cc/en/Main/Software) on the laptop computer you will be using for the class.
 
-We will do a brief intro to Github as one option for collaborating with others on your projects, so please also download the {{% resource_link "252d730e-3399-48c1-93f0-b86ae2452c5b" "GitHub" %}} client and setup a github account if you do not already have one.
+We will do a brief intro to Github as one option for collaborating with others on your projects, so please also download the [GitHub](http://desktop.github.com/) client and setup a github account if you do not already have one.
 
 We will walk you through an introductory Arduino tutorial about building a digitally-controlled flashlight the first few days, then you will break out into teams for a small two day project meant to help you learn through collaboration. We'll present the course outline in more detail during the first day."
 
@@ -86,7 +88,7 @@ Your budget is $40/person. So a larger team has a larger budget. You can also sh
 
 Also, please add all of your Arduino code for the mini-projects to your team folder on GitHub.
 
-Feel free to document your circuits using {{% resource_link "03e07a8f-7d5a-470b-83a1-cd2f4b3c9550" "Fritzing" %}}, and/or photograph your breadboard.
+Feel free to document your circuits using [Fritzing](http://fritzing.org/home/), and/or photograph your breadboard.
 
 And upload to Github."
 

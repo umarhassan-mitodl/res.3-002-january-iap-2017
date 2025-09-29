@@ -34,7 +34,7 @@
     "website": "res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017"
   },
   "course_title": "Collaborative Design and Creative Expression with Arduino Microcontrollers",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "This is a 9-day hands-on workshop about collaboration, design, and electronics prototyping. No previous experience with computer programming or electronics is required. Beginning students will be taught everything they need to know and advanced students will be challenged to learn new skills. Participants will learn about microcontroller programming using Arduino, collaborative software development using GitHub, solderless electronics prototyping, electronic sensors, rapid prototyping, and small team management.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
     "3"
@@ -45,6 +45,7 @@
     "content": "5ef61438-e0c5-2c2d-3e4c-6a0a64798a92",
     "website": "res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Projects with Examples",
     "Instructor Insights"
