@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/d0b8e855e4e30e53ac86d76b5edca16d_SP2.jpg
 file_size: 3412
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

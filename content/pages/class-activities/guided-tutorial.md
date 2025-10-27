@@ -36,10 +36,10 @@ If you can model what it looks like to ask a question and answer a question supp
 Tutorial
 --------
 
-The class discussions, [tutorials from the Arduino website](https://www.arduino.cc/en/Guide/HomePage) and other resources (listed below) will be used to help the students get started with the process of creating interactive projects with the Arduino.
+The class discussions, {{% resource_link "7a1bc0c5-810d-4c5a-bbf3-3a095b3fea05" "tutorials from the Arduino website" %}} and other resources (listed below) will be used to help the students get started with the process of creating interactive projects with the Arduino.
 
-*   [Hackaday](https://hackaday.com/)
-*   [Instructables](http://www.instructables.com/explore/category/technology/channel/arduino/)
-*   [DIY Hacking](https://diyhacking.com/)
-*   [Sparkfun](https://learn.sparkfun.com/)
-*   [Adafruit](https://learn.adafruit.com/)
+*   {{% resource_link "81787367-f6dd-4c74-abf8-1cd9936be309" "Hackaday" %}}
+*   {{% resource_link "01bcbab6-8ed8-4b2d-a78a-4473abcdaefe" "Instructables" %}}
+*   {{% resource_link "d8de627b-1fc1-4a40-acf5-26cbea019200" "DIY Hacking" %}}
+*   {{% resource_link "8aad7ac5-7609-4548-b9b1-3e800fa50e5d" "Sparkfun" %}}
+*   {{% resource_link "055207ba-8df2-4783-a01e-1fc2d8545a75" "Adafruit" %}}

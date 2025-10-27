@@ -4,8 +4,6 @@ description: This resource contains information regarding the 2016 Workshop Flye
 file: /courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/f067b2c50f3e68d11a5b437d0f786f55_MITRES_3_002IAP17_Flyer_16.pdf
 file_size: 846799
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
